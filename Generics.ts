@@ -30,7 +30,7 @@ let nums=wrap<number>([5,6,7,8,9])
 let bool=wrap<boolean>([true,false])
 console.log(nums);
 
-function 
+
 
 
 
